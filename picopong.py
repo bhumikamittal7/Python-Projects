@@ -1,4 +1,4 @@
-#credits - santript
+#credits - santripta
 
 from machine import Pin, SoftI2C, I2C
 from picozero import Pot
